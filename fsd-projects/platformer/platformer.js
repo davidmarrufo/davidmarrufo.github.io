@@ -40,13 +40,13 @@ createPlatform(800 , 400 , 300 , 10)
 createPlatform(190 , 300 , 500 , 10)
     // TODO 3 - Create Collectables
 //createCollectables(x , y , width , height)
-createCollectables(300 , 400 , 500 , 10)
+createCollectables(100 , 400 , 200 , 10)
 
 
     
     // TODO 4 - Create Cannons
     //createCannons(x , y , width , height)
-   to hard
+   
 
 
 
